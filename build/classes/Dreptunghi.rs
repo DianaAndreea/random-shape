@@ -1,0 +1,3 @@
+RectangleArea$1
+RectangleArea
+Dreptunghi
